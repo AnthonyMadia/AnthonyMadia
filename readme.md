@@ -10,5 +10,6 @@ I am currently looking for work within the blockchain industry as a full stack e
 
 
 
-
+<p align= center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymadia&layout=compact)](https://github.com/anthonymadia/github-readme-stats) ![Anthony Madia's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyMadia&show_icons=true&theme=s)
+</p
