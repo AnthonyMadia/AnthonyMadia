@@ -4,6 +4,11 @@
   <h2>My interests in technology are blockchain, cloud computing, IoT, and machine learning. </h2>
   <h2>Outisde of technology, my interests are in philosophy, music, economics, history, and physics. </h2>
   <h2>I am currently looking for work within the blockchain industry as a full stack engineer. </h2>
+  
+  <h3>Hobbies:</h3>
+  <ul>♟️ Chess</ul>
+  <ul>🎹 Piano</ul>
+  <ul>🖊️ Writing</ul>
 </div>
 
 <hr>
