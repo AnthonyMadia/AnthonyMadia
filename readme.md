@@ -1,9 +1,9 @@
 ### Hello, world. I am Anthony
 #### My interests in technology are blockchain, cloud computing, IoT, and machine learning. 
 
-### Outisde of technology, my interests are in philosophy, economics, history, and physics. 
+#### Outisde of technology, my interests are in philosophy, economics, history, and physics. 
 
-### I am currently looking for work within the blockchain industry as a full stack engineer. 
+#### I am currently looking for work within the blockchain industry as a full stack engineer. 
 
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=anthonymadia' alt="">
