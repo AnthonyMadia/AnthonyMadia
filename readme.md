@@ -2,7 +2,7 @@
 
 
 
-My interests in technology are within blockchain, cloud computing, IoT, and machine learning. 
+My interests in technology are blockchain, cloud computing, IoT, and machine learning. 
 
 Outisde of technology, my interests are in philosophy, economics, history, and physics. 
 
