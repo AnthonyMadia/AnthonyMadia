@@ -15,7 +15,7 @@
 
 <hr>
 <div align= 'center'>
-<img src='https://github-readme-stats.vercel.app/api?username=anthonymadia' alt="">
+<img src='https://github-readme-stats.vercel.app/api?username=anthonymadia&count_private=true' alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymadia" alt="">
 </div>
 
