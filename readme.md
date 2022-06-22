@@ -20,7 +20,6 @@
 
 <div align='center'>
     <h3>Contact:</h3>
-    <a href="https://www.anthonymadia.io/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/anthonymadia/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/anthonymadia"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: aamadia24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
