@@ -63,7 +63,7 @@
 <div align="center">
   <h3>Tests:</h3>
   <a href="#"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />  </a>
-  <a href="#"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />  </a>
 </div>
 </div>
