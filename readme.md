@@ -50,11 +50,16 @@
       <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />  </a>
     </div>
+<div align='center'>
+  <h3>Editors:</h3>
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>    
+
 <div align="center">
   <h3>Tests:</h3>
   <a href="#"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />  </a>
