@@ -3,8 +3,7 @@
 <div align= 'center'>
   <h2>My interests in technology are blockchain, cloud computing, IoT, and machine learning. </h2>
   <h2>Outisde of technology, my interests are in philosophy, music, economics, history, and physics. </h2>
-  
-  <h3>👨🏻‍💻 I am currently reviewing Patrick Collins' JS Solidity course. If any of you would like to exchange notes or conversations, feel free to message me :)</h3>
+ 
   
   <h3>Hobbies:</h3>
   <ul>♟️ Chess</ul>
