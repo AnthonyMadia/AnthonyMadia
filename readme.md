@@ -13,7 +13,7 @@
 
 <hr>
 <div align= 'center'>
-<img src='https://github-readme-stats.vercel.app/api?username=anthonymadia&count_private=true' alt=""><a href="https://stackoverflow.com/users/17120512/aamcode"><img src="https://stackoverflow.com/users/flair/17120512.png" width="208" height="58" alt="profile for AAMCODE at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AAMCODE at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<img src='https://github-readme-stats.vercel.app/api?username=anthonymadia&count_private=true' alt=""><a href="https://stackoverflow.com/users/17120512/aamcode"><img src="https://stackoverflow.com/users/flair/17120512.png?theme=hotdog" width="400" height="100" alt="profile for AAMCODE at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AAMCODE at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
 <div align='center'>
