@@ -2,7 +2,7 @@
 
 <div align= 'center'>
   <h2>My interests in technology are blockchain, cloud computing, IoT, and machine learning. </h2>
-  <h2>Outisde of technology, my interests are in philosophy, music, economics, history, and physics. </h2>
+  <h2>Outside of technology, my interests are in philosophy, music, economics, history, and physics. </h2>
  
   
   <h3>Hobbies:</h3>
