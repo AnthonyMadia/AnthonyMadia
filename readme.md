@@ -1,19 +1,16 @@
-### Hello, world. I am Anthony
+### Hello, world 🌎. I am Anthony
 
 <div align= 'center'>
   <h2>My interests in technology are blockchain, cloud computing, IoT, and machine learning. </h2>
-  <h2>Outside of technology, my interests are in philosophy, music, economics, history, and physics. </h2>
- 
+  <h2>Currently doing frontend work at the Ethereum Foundation</h2>
   
-  <h3>Hobbies:</h3>
-  <ul>♟️ Chess</ul>
-  <ul>🎹 Piano</ul>
-  <ul>🖊️ Writing</ul>
+  <h3>Outside of technology, my interests are in philosophy, music, economics, history, and physics. </h2>
+  
 </div>
 
 <hr>
 <div align= 'center'>
-<img src='https://github-readme-stats.vercel.app/api?username=anthonymadia&count_private=true' alt=""><a href="https://stackoverflow.com/users/17120512/aamcode"><img src="https://stackoverflow.com/users/flair/17120512.png" width="300" height="100" alt="Anthony Madia's stackoverflow" title="my profile"></a>
+<img src='https://github-readme-stats.vercel.app/api?username=anthonymadia&count_private=true' alt=""><a href="https://stackoverflow.com/users/17120512/aamcode"><img src="https://stackoverflow.com/users/flair/17120512.png" width="250" height="100" alt="Anthony Madia's stackoverflow" title="my profile"></a>
 </div>
 
 <div align='center'>
