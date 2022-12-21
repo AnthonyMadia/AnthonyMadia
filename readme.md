@@ -1,10 +1,17 @@
 ### Hello, world 🌎
 
-<div align= 'center'>
-  <h4>My interests in technology are blockchain, cloud computing, IoT, and machine learning. </h2>
+<div align= 'left'>
+  <h4>Technologies I am interesed in: </h2>
+  <ul>
+      <li>Blockchain</li>
+      <li>Zero-knowledge Proofs</li>
+      <li>Distributed Compute</li>
+      <li>Machine Learning/AI</li>
+      <li>P2P Networks</li>
+  </ul>
   
   
-  <h4>Outside of technology my interests are in philosophy, music, economics, history, and physics. </h2>
+  <h4>Outside of technology my interests are in the humanities; philosophy, music, economics, history. </h2>
   
 </div>
 
