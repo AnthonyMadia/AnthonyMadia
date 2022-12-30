@@ -1,7 +1,7 @@
 ### Hello, world 🌎
 
 <div align= 'left'>
-  <h4>Technologies I am interesed in: </h2>
+  <h4>Technologies I am interesed in: </h4>
   <ul>
       <li>Blockchain</li>
       <li>Zero-knowledge Proofs</li>
@@ -11,7 +11,7 @@
   </ul>
   
   
-  <h4>Outside of technology my interests are in the humanities; philosophy, music, economics, history. </h2>
+  <h4>Outside of technology my interests are in the humanities: philosophy, music, economics, history. </h4>
   
 </div>
 
